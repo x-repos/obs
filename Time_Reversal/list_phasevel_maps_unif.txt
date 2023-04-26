@@ -1,1 +1,0 @@
-"phase_maps/R10_group_uniform.txt"
