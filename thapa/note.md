@@ -3,7 +3,7 @@ When an earthquake or underground explosion occurs in the earth, seismic waves a
 
 Coda waves cause site effect.
 
-# **Autocorrelation**
+# **Autocorrelation for Coda P wave**
 
 Autocorrelation, sometimes known as serial correlation in the discrete time case, is the correlation of a signal with a delayed copy of itself as a function of delay. Informally, it is the similarity between observations of a random variable as a function of the time lag between them. The analysis of autocorrelation is a mathematical tool for finding repeating patterns, such as the presence of a periodic signal obscured by noise, or identifying the missing fundamental frequency in a signal implied by its harmonic frequencies
 
